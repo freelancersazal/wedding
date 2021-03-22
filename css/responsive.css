@@ -1,0 +1,726 @@
+
+
+
+/* media start of large/1200px */
+
+@media(min-width:992px) and (max-width:1200px) {
+    body {
+        overflow-x: hidden;
+    }
+    .skdslider {
+        height: 576px;
+    }
+    .slide-desc h2 {
+        font-size: 42px !important;
+    }
+    .slide-desc .clor h6,
+    .slide-desc h3 {
+        font-size: 27px;
+    }
+    .sazal_navbar li a {
+        padding: 0 10px;
+    }
+    .sazal_navbar li a::before {
+        right: 10px;
+    }
+    .sazal_navbar li a::after {
+        left: 10px;
+    }
+    .love_story h4,
+    .coule_about h3 {
+        font-size: 38px;
+    }
+    .love_story::after {
+        right: -34px;
+        top: 49.5px;
+        width: 22px;
+    }
+    .love_story h4 {
+        font-size: 18px;
+        margin-bottom: 0;
+        line-height: 34px;
+    }
+    .weddi_plan {
+        height: 200px;
+        margin: 70px 0;
+        width: 200px;
+    }
+    .weddin_plan h5 {
+        font-size: 19px;
+        margin-bottom: 10px;
+        margin-top: -15px;
+    }
+    .blog_Wedding h3,
+    .weddin_plan h3 {
+        font-size: 19px;
+        line-height: 35px;
+        margin-bottom: 5px;
+    }
+    .wedd_plan::after {
+        right: -43px;
+        top: 99px;
+        width: 43px;
+    }
+    .blog_Wedding img {
+        height: 233px;
+    }
+}
+
+
+/* media ends of large/1200px */
+
+
+/* media start of tab/991px */
+
+@media(min-width:768px) and (max-width:991px) {
+    .padd_100 {
+        padding: 60px 0px;
+    }
+    .padd_50 {
+        padding: 45px 0px;
+    }
+    #home {
+        /*margin-top: -350px;*/
+    }
+    .skdslider {
+        height: 470px;
+    }
+    .slide-desc {
+        transform: translateX(-50%) translateY(50%);
+    }
+    .slide-desc .col-md-6 .countDown3 .col-md-3,
+    .slide-desc .col-md-6 .countDown2 .col-md-3,
+    .slide-desc .col-md-6 .countDown1 .col-md-3 {
+        padding: 10px 14px;
+        display: inline-block;
+    }
+    .slide-desc .col-md-6 .countDown3 .col-md-3 h6,
+    .slide-desc .col-md-6 .countDown2 .col-md-3 h6,
+    .slide-desc .col-md-6 .countDown1 .col-md-3 h6 {
+        font-size: 16px;
+    }
+    .slide-desc .clor .col-md-3:before {
+        top: 25px;
+    }
+    .slide-desc h3 {
+        font-size: 20px;
+    }
+    .slide-desc h2 {
+        font-size: 30px !important;
+        line-height: 60px;
+    }
+    .slide-desc p {
+        font-size: 15px;
+        padding-top: 10px;
+    }
+    .navbar-brand > img {
+        margin-top: -5px;
+        width: 40px;
+    }
+    .sazal_navbar li a {
+        font-size: 13px;
+        padding: 0px 4px;
+        line-height: 50px;
+    }
+    .sazal_navbar li a::before {
+        right: 5px;
+        height: 1px;
+    }
+    .sazal_navbar li a::after {
+        left: 5px;
+        height: 1px;
+    }
+    #about.padd_100 {
+        padding: 40px 0 54px;
+    }
+    .coule_about img {
+        height: 200px;
+        width: 200px;
+        margin-top: 55px;
+    }
+    .love_story h4,
+    .coule_about h3 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    .love_story p,
+    .coule_about p {
+        font-size: 13px;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+    .common_hedding h2 {
+        font-size: 42px;
+    }
+    .coule_about ul li {
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+        margin: 0px 8px;
+    }
+    .coule_about ul li a i {
+        line-height: 25px;
+        font-size: 14px;
+        left: 22%;
+    }
+    .coule_about2 ul li a i {
+        left: -24%;
+    }
+    .love_clc {
+        height: 80px;
+        width: 80px;
+        margin-bottom: 30px;
+        left: 7%;
+    }
+    .love_cl {
+        height: 60px;
+        width: 60px;
+    }
+    .love_cl i {
+        line-height: 80px;
+        font-size: 40px;
+    }
+    .love_story::after {
+        right: -19px;
+        top: 40px;
+        width: 6px;
+    }
+    .love_story h4 {
+        font-size: 17px;
+        margin-bottom: 0px;
+        line-height: 26px;
+    }
+    .love_story p {
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+    .padd_85 {
+        padding: 45px 0;
+    }
+    .weddi_plan {
+        height: 160px;
+        width: 160px;
+        margin-top: 15px;
+        margin-bottom: 50px;
+        margin-left: 15px;
+    }
+    .weddin_plan h5 {
+        font-size: 14px;
+        margin-bottom: 5px;
+        padding-top: 55px;
+    }
+    .weddin_plan h3 {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 5px;
+        margin-left: -8px;
+    }
+    .off_bot2 .weddin_plan h3 {
+        font-size: 14px;
+    }
+    .love_story p {
+        font-size: 9px;
+        margin-bottom: 5px;
+        display: none;
+    }
+    .love_story::after {
+        right: -21px;
+        top: 39px;
+        width: 13px;
+    }
+    .wedd_plan::after {
+        right: -28px;
+        top: 79px;
+        width: 26px;
+    }
+    .blog_Wedding h3 {
+        font-size: 16px;
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    .blog_Wedding h5 {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .blog_Wedding {
+        padding-bottom: 35px;
+    }
+    #message h2 {
+        font-size: 38px;
+        line-height: 50px;
+    }
+    .auto_team {
+        margin-bottom: -70px;
+    }
+    .auto_team .slick-list {
+        padding-top: 140px;
+    }
+    .friends_part {
+        padding: 50px 0 30px;
+    }
+    .padd_75_20 {
+        padding: 44px 0 49px;
+    }
+    .friends_part ul li a {
+        margin: 0px 7px;
+    }
+    .contact_about h5 {
+        font-size: 16px;
+        margin-top: 8px;
+    }
+    .contact_about h3 {
+        font-size: 21px;
+        margin-top: 15px;
+    }
+    .contact_about p {
+        font-size: 13px;
+        line-height: 24px;
+        margin-top: 15px;
+    }
+    .befe::after {
+        right: 12px;
+    }
+    .contact_about h2 {
+        font-size: 24px;
+    }
+    .contact_about h3 {
+        font-size: 18px;
+    }
+    .sazal_from .col-md-12 textarea,
+    .sazal_from .col-md-6 input {
+        font-size: 12px;
+    }
+    #love.padd_100 {
+        padding: 32px 0 32px;
+    }
+    #gallery.padd_50 {
+        padding: 41px 0 20px;
+    }
+    #Wedding_Plan.padd_85 {
+        padding: 30px 0 21px;
+    }
+    #Wedding_Journal.padd_100 {
+        padding: 51px 0 49px;
+    }
+    #message.padd_75_100 {
+        padding: 28px 0 27px;
+    }
+    #friends.padd_75_20 {
+        padding: 51px 0 43px;
+    }
+    #contact.padd_100 {
+        padding: 39px 0 40px;
+    }
+    .common_hedding img {
+        margin: 0px 0 31px;
+    }
+    .mar_b_90 {
+        margin-bottom: 51px;
+    }
+    .common_hedding3 img {
+        margin: 0 0 34px;
+    }
+    .common_hedding4 img {
+        margin: 0 0 64px;
+    }
+    .common_hedding7 img {
+        margin: 0 0 34px;
+    }
+    .common_hedding5 img {
+        margin: 0 0 -42px;
+    }
+    #contact .common_hedding img {
+        margin: 0 0 29px;
+    }
+    footer {
+        padding: 20px 0;
+    }
+    .back-to-top {
+        right: 11px;
+    }
+}
+
+
+/* media ends of tab/991px */
+
+
+/* media start of mobile/767px */
+
+@media(max-width:767px) {
+    .padd_50 {
+        padding: 45px 0px 20px;
+    }
+    body {
+        overflow-x: hidden;
+    }
+    nav {
+        background: #fff;
+    }
+    /*.nav-wrapper{
+        height: 53px;
+    }*/
+    .navbar-brand > img {
+        margin-top: -7px;
+        width: 40px;
+    }
+    .sazal_navbar li a {
+        text-align: center;
+        line-height: 40px;
+    }
+    .sazal_navbar li a::before {
+        right: 50%;
+        width: 0;
+    }
+    .sazal_navbar li a::after {
+        left: 50%;
+        width: 0;
+    }
+    .sazal_navbar li a:hover::before {
+        width: 0;
+    }
+    .sazal_navbar li a:hover::after {
+        width: 0;
+    }
+    .sazal_navbar li.active a::before {
+        transform: scale(0);
+        width: 0%;
+    }
+    .sazal_navbar li.active a::after {
+        transform: scale(0);
+        width: 0%;
+    }
+    .padd_100 {
+        padding: 50px 0px;
+    }
+    #home {
+        margin-top: 0px;
+    }
+    .skdslider {
+        height: 750px;
+    }
+    .mar-500 {
+        margin-top: -230px;
+    }
+    .countDown1 .col-md-3 {
+        width: 50%;
+    }
+    .slide-desc .clor .col-md-3.ma_r:before {
+        height: 0;
+    }
+    .slide-desc .clor h6,
+    .slide-desc h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .clor {
+        margin-bottom: 50px;
+    }
+    .slide-desc h2 {
+        font-size: 22px !important;
+        line-height: 43px;
+    }
+    .padd_l_f {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .cont h3 {
+        font-size: 15px !important;
+    }
+    .slide-desc p {
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    .common_hedding h2 {
+        font-size: 35px;
+        margin: 10px 0px 10px 0px;
+    }
+    .common_hedding img {
+        margin-bottom: 50px;
+    }
+    .love_story h4,
+    .coule_about h3 {
+        font-size: 23px;
+        margin-bottom: 15px;
+    }
+    .coule_about img {
+        height: 200px;
+        width: 200px;
+        margin: 100px 0px 40px;
+        position: relative;
+        transform: translateX(-50%);
+        left: 50%;
+    }
+    .common_hedding2 h2 {
+        margin-bottom: 5px;
+    }
+    .love_story::after {
+        height: 0px;
+    }
+    .love_story {
+        margin-bottom: 50px;
+    }
+    .mrb_0 {
+        margin-bottom: 0px;
+    }
+    .love_clc {
+        position: relative;
+        left: 33%;
+        margin-bottom: 35px;
+    }
+    .love_story p {
+        color: #ddd;
+        margin-bottom: 8px;
+    }
+    /* gallery */
+    .portfolio-imag {
+        padding-bottom: 0;
+    }
+    .common_hedding4 {
+        margin-bottom: 0px;
+    }
+    #Wedding_Plan {
+        padding-bottom: 105px;
+        padding: 35px;
+    }
+    .wedd_plan {
+        width: 160px;
+        left: 50%;
+        transform: translate(-50%);
+        margin-bottom: 98px;
+    }
+    .weddi_plan {
+        width: 150px;
+        height: 150px;
+        margin: 80px 0px 100px;
+        left: -12%;
+        margin-bottom: 21px;
+        position: relative;
+        transform: rotate(45deg) translateX(23%);
+    }
+    .weddi_plan:first-child {
+        margin-top: 20px;
+    }
+    .weddi_plan:last-child {
+        margin-bottom: 70px;
+    }
+    .weddin_plan h5 {
+        font-size: 16px;
+        margin-bottom: 10px;
+        padding-top: 0px;
+    }
+    .blog_Wedding h3,
+    .weddin_plan h3 {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    .weddin_plan p {
+        font-size: 13px;
+        margin-bottom: 8px;
+        line-height: 20px;
+    }
+    .pab_0 {
+        padding-bottom: 0;
+    }
+    .blog_Wedding h3 {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+    .blog_Wedding img {
+        max-height: 172px;
+        width: 100%;
+    }
+    #message h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .padd_75_20 {
+        padding: 26px 0 25px;
+    }
+    .auto_team .slick-list {
+        padding-top: 100px;
+        transform: translateY(-75px);
+    }
+    .auto_team {
+        margin-bottom: -70px;
+    }
+    .friends_part {
+        padding: 50px 0 36px;
+    }
+    .befe::after {
+        width: 0px;
+    }
+    .contact_about {
+        margin-bottom: 40px;
+    }
+    #contact .sazal_from {
+        margin-top: 90px;
+    }
+    footer h4 {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    #about.padd_100 {
+        padding: 30px 0 46px;
+    }
+    #love.padd_100 {
+        padding: 32px 0 20px;
+    }
+    #gallery.padd_50 {
+      padding: 31px 0 10px;
+    }
+    #Wedding_Plan.padd_85 {
+      padding: 30px 0 0;
+    }
+    .wedd_plan:last-child {
+      margin-bottom: 94px;
+    }
+    #Wedding_Journal.padd_100 {
+      padding: 31px 0 39px;
+    }
+    #message.padd_75_100 {
+      padding: 30px 0 31px;
+    }
+    #friends.padd_75_20 {
+      padding: 29px 0 35px;
+    }
+    #contact.padd_100 {
+      padding: 30px 0 40px;
+    }
+    .common_hedding img {
+      margin-bottom: 25px;
+    }
+   .common_hedding2 img {
+      margin-bottom: 55px;
+    }
+    .common_hedding3 img {
+      margin-bottom: 34px;
+    }
+    .common_hedding4 img {
+      margin-bottom: 40px;
+    }
+    .common_hedding7 img {
+      margin-bottom: 35px;
+    }
+    .common_hedding5 img {
+        margin-bottom: 21px;
+    }
+    #contact .common_hedding img {
+      margin: 0 0 33px;
+    }
+    .contact_about h2 {
+        padding-bottom: 0px;
+    }
+    .contact_about {
+        margin-bottom: 12px;
+    }
+    .contact_about ul li a {
+        margin: 11px 10px;
+    }
+    #contact .sazal_from {
+        margin-top: 60px;
+    }
+    .sazal_from .col-md-6 input {
+        width: 111%;
+        margin-left: -15px;
+    }
+    .sazal_from .col-md-12 textarea {
+        width: 111%;
+        margin-left: -15px;
+    }
+    .back-to-top {
+        right: 7px;
+    }
+    footer {
+      padding: 15px 0;
+    }
+   
+}
+
+
+/* media start of mobile/480px */
+
+@media(min-width:321px) and (max-width:480px) {
+    .padd_100 {
+        padding: 40px 0px 50px;
+    }
+    #home {
+        margin-top: 0px;
+    }
+    .skdslider {
+        height: 800px;
+    }
+    .mar-500 {
+        margin-top: -210px;
+    }
+    .slide-desc h2 {
+        font-size: 32px !important;
+    }
+    .common_hedding4 {
+        margin-bottom: -33px;
+    }
+    .love_clc {
+        left: 39.5%;
+        margin-bottom: 35px;
+        position: relative;
+    }
+    .weddi_plan {
+        left: -10%;
+        transform: rotate(45deg) translateX(23%);
+    }
+    .blog_Wedding {
+        width: 80%;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .friends_part {
+        padding: 50px 0 36px;
+        width: 60%;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .sazal_from .col-md-6 input {
+        margin-left: -15px;
+        width: 107%;
+    }
+    .sazal_from .col-md-12 textarea {
+        margin-left: -15px;
+        width: 107%;
+    }
+    #contact .common_hedding img {
+        margin: 0 0 60px;
+    }
+    .contact_about ul li a {
+        margin: 20px 10px;
+    }
+    .contact_about {
+        margin-bottom: 21px;
+    }
+    .common_hedding4 img {
+        margin-bottom: 69px;
+    }
+    #contact .sazal_from {
+        margin-top: 80px;
+    }
+    .common_hedding img {
+      margin-bottom: 30px;
+    }
+    .mar_b_90 {
+      margin-bottom: 53px;
+    }
+    .common_hedding3 img {
+      margin-bottom: 35px;
+    }
+    .common_hedding4 img {
+      margin-bottom: 73px;
+    }
+    #contact .common_hedding img {
+      margin: 0 0 65px;
+    }
+    .weddi_plan {
+      left: -12%;
+    }
+}
